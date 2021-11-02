@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="111" viewBox="0 0 143 111">
+  <g id="グループ_2" data-name="グループ 2" transform="translate(-74 -58)">
+    <g id="多角形_1" data-name="多角形 1" transform="translate(157 169) rotate(180)" fill="#fff">
+      <path d="M 19.39833068847656 17.5 L 2.601668834686279 17.5 L 11 2.993791818618774 L 19.39833068847656 17.5 Z" stroke="none"/>
+      <path d="M 11 5.987593650817871 L 5.203344345092773 16 L 16.79665565490723 16 L 11 5.987593650817871 M 11 0 L 22 19 L 0 19 L 11 0 Z" stroke="none" fill="#38302e"/>
+    </g>
+    <g id="長方形_7" data-name="長方形 7" transform="translate(74 58)" fill="#fff" stroke="#38302e" stroke-width="3">
+      <rect width="143" height="96" rx="15" stroke="none"/>
+      <rect x="1.5" y="1.5" width="140" height="93" rx="13.5" fill="none"/>
+    </g>
+    <path id="多角形_2" data-name="多角形 2" d="M11,0,22,19H0Z" transform="translate(157 163) rotate(180)" fill="#fff"/>
+  </g>
+</svg>
