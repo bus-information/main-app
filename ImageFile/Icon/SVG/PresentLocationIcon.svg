@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157" height="157" viewBox="0 0 157 157">
+  <g id="グループ_5" data-name="グループ 5" transform="translate(-1642 166)">
+    <rect id="長方形_11" data-name="長方形 11" width="157" height="157" rx="10" transform="translate(1642 -166)" fill="#46b1c9"/>
+    <text id="現在地に戻る" transform="translate(1654 -122)" fill="#eaeaea" font-size="28" font-family="bananaslipplus, bananaslip plus"><tspan x="0" y="0">現在地に戻る</tspan></text>
+    <g id="グループ_3" data-name="グループ 3" transform="translate(1708.364 -106.567)">
+      <path id="パス_25" data-name="パス 25" d="M385.672,779.183s-5.036.141-8.045,3.15a13.765,13.765,0,0,0-3.846,9.173c-.163,2.365-.119,5.971,2.942,12.654s9.831,13.155,9.831,13.155,6.046-6.328,9.059-13.155a29.559,29.559,0,0,0,2.617-12.654s-.353-5.837-3.872-9.173S385.672,779.183,385.672,779.183Z" transform="translate(-373.729 -779.181)" fill="#595959" stroke="#595959" stroke-width="1"/>
+      <g id="楕円形_3" data-name="楕円形 3" transform="translate(6.193 7.23)" fill="#fff" stroke="#fff" stroke-width="1">
+        <circle cx="6.626" cy="6.626" r="6.626" stroke="none"/>
+        <circle cx="6.626" cy="6.626" r="6.126" fill="none"/>
+      </g>
+    </g>
+    <path id="パス_40" data-name="パス 40" d="M335.219,857h26.588s1.7-22.809-13.294-22.809S335.219,857,335.219,857Z" transform="translate(1372.11 -881.785)" fill="#595959" stroke="#595959" stroke-width="1"/>
+    <g id="楕円形_5" data-name="楕円形 5" transform="translate(1711.277 -67.239)" fill="#595959" stroke="#595959" stroke-width="1">
+      <circle cx="9.223" cy="9.223" r="9.223" stroke="none"/>
+      <circle cx="9.223" cy="9.223" r="8.723" fill="none"/>
+    </g>
+  </g>
+</svg>
