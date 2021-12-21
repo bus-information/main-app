@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="584" viewBox="0 0 420 584">
+  <defs>
+    <clipPath id="clip-カスタムサイズ_1">
+      <rect width="420" height="584"/>
+    </clipPath>
+  </defs>
+  <g id="カスタムサイズ_1" data-name="カスタムサイズ – 1" clip-path="url(#clip-カスタムサイズ_1)">
+    <rect width="420" height="584" fill="#fff"/>
+    <path id="パス_1" data-name="パス 1" d="M148.044,220.292Z" transform="translate(-30 39)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="楕円形_1" data-name="楕円形 1" transform="translate(60 142)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="150" cy="150" r="150" stroke="none"/>
+      <circle cx="150" cy="150" r="149.5" fill="none"/>
+    </g>
+    <g id="楕円形_2" data-name="楕円形 2" transform="translate(70 152)" fill="#39d9bb" stroke="#707070" stroke-width="1">
+      <circle cx="140" cy="140" r="140" stroke="none"/>
+      <circle cx="140" cy="140" r="139.5" fill="none"/>
+    </g>
+    <g id="楕円形_3" data-name="楕円形 3" transform="translate(160 171)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="50" cy="50" r="50" stroke="none"/>
+      <circle cx="50" cy="50" r="49.5" fill="none"/>
+    </g>
+    <path id="パス_2" data-name="パス 2" d="M324.562,363.857s-9.7-72.956-41.584-106.4c-11.432-11.993-26.867-16.537-43.7-16.707-17.346-.175-33.638,4.4-45.141,16.707-31.6,33.819-39.206,106.4-39.206,106.4s35.268,29.7,84.347,28.774c16.589-.314,32.174-2.905,45.161-7.337C309.164,376.858,324.562,363.857,324.562,363.857Z" transform="translate(-29.833 39)" fill="#707070" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
